@@ -1,4 +1,4 @@
-# Everyone is welcome in tech. We should try to make them feel that way. ❤️ ✊
+# Hey there. ❤️ ✊
 
 - [How This List Works](#how-this-list-works)
 - [Developer Groups](#developer-groups)
