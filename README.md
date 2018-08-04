@@ -1,4 +1,7 @@
-# Hey there. ❤️ ✊
+# Hey there,
+So am collating the list of female tech groups in Africa, please feel free to add yours and anyone you know.
+
+Lots of love!❤️ ✊
 
 - [How This List Works](#how-this-list-works)
 - [Developer Groups](#developer-groups)
