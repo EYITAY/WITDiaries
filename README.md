@@ -41,13 +41,8 @@ Please [edit this file](https://github.com/EYITAY/WITDiaries/edit/master/README.
 - Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
 ```
 
-## Why?
+## Why
 
-Recently, I got into [a debate about diversity](https://www.reddit.com/r/javascript/comments/6f8u2s/githubs_electronconf_postponed_because_all_the/digz7hb/) on Reddit, and it bummed me out.
-
-The [ElectronConf](http://electronconf.com/) roster was 100% men, despite a blind review process. This points to a big issue: **there wasn't any diversity in the proposals to begin with, so the roster was doomed to be skewed.** Personally, I don't believe any of this was due to malice or ill intent, but an oversight on the part of the conference organizers to welcome proposals from a more diverse group of developers.
-
-We can make this easier for conferences everywhere: this is a (far from exhaustive) list of developer groups we can reach out to during calls for proposals to make sure we're welcoming everyone in tech at our conferences.
-
+In the last five years, i have been managing several communities here in Nigeria, from Google Developer Groups,to Women Tech makers, Forloop Women, Kotlin Nigeria , VR Nigeria Community and alot more but my challenge has been curating female speakers.
 Inviting a broader group of developers to submit proposals means more proposals, better conferences, more value for attendees, and a strong message to the tech community: **you are welcome here.**
 
