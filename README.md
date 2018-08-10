@@ -23,35 +23,13 @@ If you're planning an event, feel free to reach out for female speaker suggestio
 > Thanks!  
 > {{YOUR_NAME}}
 
-You can send this email to me so i'd just forwrd it to women in all my communities., if you'd like — though it'd probably pay dividends to personalize it a bit — and this ensures that your CFP is seen in as many communities as possible, encouraging submissions from a diverse group of developers and driving up the quality of the talks at your event.
-
-## Developer Groups
+You can send this email to me so i'd just forwrd it to women in all my communities.
+## Technology Groups
 
 Groups are in alphabetical order. Want to add your group? [Here's how!](#please-add-your-group)
 
-- BeVisible: [site](http://bevisible.soy/) · [email](mailto:contact@bevisible.soy)
-- Black Girls Code: [site](http://www.blackgirlscode.com/) · [contact](http://www.blackgirlscode.com/contact-us.html)
-- Blacks in Technology (BIT): [site](https://www.blacksintechnology.net) · [email](mailto:contactus@blacksintechnology.net)
-- ChickTech: [site](https://chicktech.org/) · [email](mailto:info@chicktech.org)
-- Code2040: [site](http://www.code2040.org/mission/) · [email](mailto:info@code2040.org)
-- Enby Tech Speakers List: [site](https://enbytech.github.io/) 
-- Geek Girls Carrots: [site](http://gocarrots.org) · [email](mailto:hello@gocarrots.org)
-- Girl Develop It: [site](https://www.girldevelopit.com) · [email](mailto:partnerships@girldevelopit.com)
-- Girls Who Code: [site](https://girlswhocode.com) · [contact](https://girlswhocode.com/contact-us/)
-- Kansas City Women in Technology: [site](http://www.kcwomenintech.org) · [email](mailto:info@kcwomenintech.org)
-- Lesbians Who Tech: [site](https://lesbianswhotech.org/about) · [email](mailto:patty@lesbianswhotech.org)
-- MotherCoders: [site](http://www.mothercoders.org/) · [email](mailto:info@mothercoders.org)
-- Open Source Diversity: [site](https://opensourcediversity.org)
-- ResilientCoders: [site](http://www.resilientcoders.org/) · [email](mailto:david@resilientcoders.org)
-- ShePlusPlus: [site](http://sheplusplus.org) · [email](mailto:sheplusplus.ambassadors@gmail.com)
-- Speakerinnen: [site](https://speakerinnen.org) · [contact](https://speakerinnen.org/en/contact)
-- Spectra: [site](https://sospectra.com) · [email](mailto:hello@sospectra.com)
-- Technolochicas: [site](http://technolochicas.org/) · [email](mailto:technolochicas@ncwit.org)
-- Techqueria: [site](https://techqueria.org/) · [email](mailto:organizers@techqueria.org)
-- Techy Girls Foundtion: [site](http://techygirls.org) · [email](mailto:geek@techygirls.org)
-- Trans\*H4CK: [site](http://transhack.org) · [email](mailto:hello@transhack.org)
-- Women Who Code: [site](https://www.womenwhocode.com/about) · [contact](https://www.womenwhocode.com/networks)
-- YesWeCode: [site](https://www.yeswecode.org/) · [email](mailto:info@yeswecode.org)
+- Forloop Women: [site](http://twitter.com/forloopwomen) · [email](mailto:forloop.women@gmail.com)
+
 
 ## Please add your group!
 
