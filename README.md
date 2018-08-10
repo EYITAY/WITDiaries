@@ -4,17 +4,17 @@ So am collating the list of female tech groups in Africa, please feel free to ad
 Lots of love!❤️ ✊
 
 - [How This List Works](#how-this-list-works)
-- [Developer Groups](#developer-groups)
-- [How to Add a Group](#please-add-your-group)
+- [Tech Groups](#developer-groups)
+- [How to Add a Tech Group](#please-add-your-group)
 - [Why Make This List?](#why)
 
 ## How this list works.
 
-If you're planning an event, put together a simple email that says something like this:
+If you're planning an event, feel free to reach out for female speaker suggestions. I've got a database load of them!
 
 > Hi, there!
 > 
-> I'm one of the organizers of {{CONF_NAME}}, and we're looking for speakers. We wanted to reach out to your community directly to let you know the call for proposals is open at {{CFP_LINK}}. We think the members of your group could offer a lot to our attendees, and we'd like to invite them all to submit ideas.
+> I'm one of the organizers of {{CONF_NAME}}, and we're looking for female speakers. We wanted to reach out to you directly to let you know so that you can give us female suggestions.
 > 
 > You can find out more about the conference at {{CONF_LINK}}, or reach out to me directly with any questions.
 >
@@ -23,7 +23,7 @@ If you're planning an event, put together a simple email that says something lik
 > Thanks!  
 > {{YOUR_NAME}}
 
-You can send this email to every group at once, if you'd like — though it'd probably pay dividends to personalize it a bit — and this ensures that your CFP is seen in as many communities as possible, encouraging submissions from a diverse group of developers and driving up the quality of the talks at your event.
+You can send this email to me so i'd just forwrd it to women in all my communities., if you'd like — though it'd probably pay dividends to personalize it a bit — and this ensures that your CFP is seen in as many communities as possible, encouraging submissions from a diverse group of developers and driving up the quality of the talks at your event.
 
 ## Developer Groups
 
