@@ -35,7 +35,7 @@ Groups are in alphabetical order. Want to add your group? [Here's how!](#please-
 
 **The only criteria for adding your group to this list is that your group consists of people in the development/tech/web space.**
 
-Please [edit this file](https://github.com/jlengstorf/awesome-speaker-diversity/edit/master/README.md) to add your group with the following format:
+Please [edit this file](https://github.com/EYITAY/WITDiaries/edit/master/README.md) to make your suggestion with the following format:
 
 ```
 - Group Name: [site](http://example.com) · [email](mailto:contact@example.com)
