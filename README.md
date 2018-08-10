@@ -44,5 +44,5 @@ Please [edit this file](https://github.com/EYITAY/WITDiaries/edit/master/README.
 ## Why
 
 In the last five years, i have been managing several communities here in Nigeria, from Google Developer Groups,to Women Tech makers, Forloop Women, Kotlin Nigeria , VR Nigeria Community and alot more but my challenge has been curating female speakers.
-Inviting a broader group of developers to submit proposals means more proposals, better conferences, more value for attendees, and a strong message to the tech community: **you are welcome here.**
+Getting this list populated means increasted diversity and better conferences!: **you are welcome here.**
 
